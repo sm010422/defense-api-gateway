@@ -61,10 +61,3 @@ PostgreSQL (데이터 저장) ← server2
 
 - 🏗️ **[K3s MSA Infrastructure](https://github.com/sm010422/k3s-msa-infrastructure)** - 클러스터 인프라 구성
 - 🎯 **[Target Tracking Service](https://github.com/sm010422/target-tracking-service)** - 핵심 비즈니스 로직
-```
-
----
-
-이거 커밋 메시지는:
-```
-docs: update README with architecture and implementation checklist
